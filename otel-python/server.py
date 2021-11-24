@@ -43,4 +43,4 @@ def fibHandler():
     return str(returnValue)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(use_reloader=False, debug=True)

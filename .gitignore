@@ -1,3 +1,11 @@
-/otel-java/target/
-/otel-dotnet/bin/
-/otel-dotnet/obj/
+otel-dotnet/bin/
+otel-dotnet/obj/
+
+otel-java/.classpath
+otel-java/.project
+otel-java/.settings/
+otel-java/target/
+
+otel-nodejs/node_modules/
+
+otel-python/__pycache__/
